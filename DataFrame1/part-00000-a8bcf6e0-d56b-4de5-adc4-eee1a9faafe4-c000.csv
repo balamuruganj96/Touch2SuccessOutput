@@ -1,0 +1,51 @@
+Year,Month,Store Name,Number of Orders,Total Revenue
+2020,1,Hall Inc,21,348.17
+2020,1,Young Group,15,271.67
+2020,1,Stevens-Barr,27,455.03
+2020,1,Taylor Ltd,28,450.72
+2020,1,"Adams, Barrett and Thomas",27,315.79
+2020,1,Scott-Brown,18,216.82
+2020,1,Edwards-Mcdaniel,18,280.72
+2020,1,Valdez Inc,24,357.64
+2020,1,"Henderson, Olson and Ward",23,282.65
+2020,1,"Martinez, Marsh and Gomez",17,222.38
+2020,2,Stevens-Barr,24,322.05
+2020,2,"Henderson, Olson and Ward",25,342.6
+2020,2,"Martinez, Marsh and Gomez",33,442.74
+2020,2,"Adams, Barrett and Thomas",24,436.31
+2020,2,Hall Inc,22,381.18
+2020,2,Young Group,26,404.18
+2020,2,Valdez Inc,25,383.29
+2020,2,Edwards-Mcdaniel,22,439.02
+2020,2,Taylor Ltd,27,343.66
+2020,2,Scott-Brown,19,274.21
+2020,3,Valdez Inc,29,463.58
+2020,3,Taylor Ltd,26,428.81
+2020,3,"Martinez, Marsh and Gomez",36,573.24
+2020,3,"Adams, Barrett and Thomas",27,430.58
+2020,3,Hall Inc,19,286.01
+2020,3,Edwards-Mcdaniel,29,428.32
+2020,3,Young Group,23,356.6
+2020,3,Scott-Brown,13,197.24
+2020,3,Stevens-Barr,31,488.47
+2020,3,"Henderson, Olson and Ward",23,312.72
+2020,4,"Martinez, Marsh and Gomez",23,361.04
+2020,4,Hall Inc,25,391.25
+2020,4,Taylor Ltd,24,393.15
+2020,4,"Henderson, Olson and Ward",24,319.29
+2020,4,"Adams, Barrett and Thomas",27,354.82
+2020,4,Young Group,26,366.12
+2020,4,Valdez Inc,26,406.61
+2020,4,Edwards-Mcdaniel,30,416.12
+2020,4,Scott-Brown,20,391.18
+2020,4,Stevens-Barr,24,343.31
+2020,5,Young Group,8,114.65
+2020,5,"Henderson, Olson and Ward",3,60.27
+2020,5,"Adams, Barrett and Thomas",4,90.45
+2020,5,Scott-Brown,3,14.17
+2020,5,Taylor Ltd,5,83.29
+2020,5,Valdez Inc,2,39.25
+2020,5,Hall Inc,2,44.05
+2020,5,Stevens-Barr,1,24.61
+2020,5,"Martinez, Marsh and Gomez",1,19.53
+2020,5,Edwards-Mcdaniel,1,24.43
